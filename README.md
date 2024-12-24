@@ -33,8 +33,8 @@ How to Use:
 
 Prerequisites:
 
-Python 3.x installed on your system.
+* Python 3.x installed on your system.
 
 Technologies Used:
 
-Programming Language: Python
+* Programming Language: Python
